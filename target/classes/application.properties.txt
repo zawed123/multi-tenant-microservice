@@ -1,0 +1,9 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/internaluserdb?ApplicationName=MultiTenant
+spring.jpa.show-sql=true
+spring.datasource.username=postgres
+spring.datasource.password=root
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.main.allow-circular-references: true
+
+#https://medium:com/swlh/multi-tenancy-implementation-using-spring-boot-hibernate-6a8e3ecb251a:
