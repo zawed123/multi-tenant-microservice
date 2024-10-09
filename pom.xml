@@ -8,8 +8,8 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aequalis</groupId>
-	<artifactId>internaluser-service</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>multi-tenant</name>
 	<description>creating multi tenant project</description>
